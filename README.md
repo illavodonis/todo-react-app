@@ -9,5 +9,3 @@ Technology stack
 -React
 
 -React Router
-
--API/REST
